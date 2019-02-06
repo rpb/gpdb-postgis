@@ -1,4 +1,4 @@
-# GPDB 5 wit PostGis Demo
+# GPDB 5 with PostGis Demo
 
 **January, 2019**
 
