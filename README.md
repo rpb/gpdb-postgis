@@ -1,8 +1,10 @@
 # GPDB 5 Demo
 
 **January, 2019**
+
+
 This was built on top of demo by Jarrod Vawdrey (jvawdrey@pivotal.io)
--rpb
+-rpb (rbennett@pivotal.io)
 
 **January, 2018**
 
@@ -15,7 +17,7 @@ This was built on top of demo by Jarrod Vawdrey (jvawdrey@pivotal.io)
 
 
 
-### Quick-Start: Use images from dockerhub
+### Option 1 Quick-Start: Use images from dockerhub
 ** Quick-Start and Build instructions assume that you have docker installed and running**
 
 1. Start Docker-Machine
@@ -64,7 +66,7 @@ docker-machine ip default
 * Spark WebUI console: http://< IP ADDRESS >:4040/
 
 
-#### Build Docker Images
+### Option 2: Build Docker Images
 
 **Instructions assume that you have docker installed and running**
 
@@ -129,7 +131,7 @@ docker-machine ip default
 * Spark WebUI console: http://< IP ADDRESS >:4040/
 
 
-#### Modeling Workflow Example
+### Modeling Workflow Example
 
 docker-jupyter/notebooks/Modeling Workflow Example - Greenplum Database.ipynb
 
@@ -141,7 +143,7 @@ docker-jupyter/notebooks/Modeling Workflow Example - Greenplum Database.ipynb
 
 
 
-#### Issues
+### Troubleshooting Known Issues
 
 Configuring shell session
 ```bash
