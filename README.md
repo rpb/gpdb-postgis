@@ -1,4 +1,4 @@
-# GPDB 5 Demo
+# GPDB 5 wit PostGis Demo
 
 **January, 2019**
 
@@ -18,7 +18,7 @@ This was built on top of demo by Jarrod Vawdrey (jvawdrey@pivotal.io)
 
 
 
-### Option 1 Quick-Start: Use images from dockerhub
+### Option 1: Quick-Start - Use images from dockerhub
 ** Quick-Start and Build instructions assume that you have docker installed and running**
 
 1. Start Docker-Machine
